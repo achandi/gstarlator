@@ -1,0 +1,14 @@
+{
+    "name": "gstarlator",
+    "version": "1.0.0",
+    "description": "gstarlator",
+    "main": "gstarlator.js",
+    "author": "Massively",
+    "dependencies": {
+        "cheerio": "^0.22.0",
+        "express": "^4.13.4",
+        "request": "^2.75.0",
+        "request-promise": "^4.1.1",
+        "swearjar": "^0.1.3"
+    }
+}
